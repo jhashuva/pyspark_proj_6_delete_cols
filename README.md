@@ -19,7 +19,7 @@ Following data operations could be performed:
 - `no_of_records()`: Number of records in the data.
 - `col_names()`: Display the Filed names of the data.
 - `count_missing_values()`: Count the missing values column wise if any.
-- 'delete_cols()' : Delete any column of the data frame and write to seperate file.
+- `delete_cols()` : Delete any column of the data frame and write to seperate file.
 
 ## `write_data.py`
 It helps to write the data into seperte file by converting into the pandas data frame and then to csv.
